@@ -1,0 +1,119 @@
+For RESIDENTIAL TARIFFS
+
+Tariff A - Domestic Tariff
+For the first 200 kWh (1 - 200 kWh) per month	sen/kWh	21.80
+For the next 100 kWh (201 - 300 kWh) per month	sen/kWh	33.40
+For the next 300 kWh (301 - 600 kWh) per month	sen/kWh	51.60
+For the next 300 kWh (601 - 900 kWh) per month	sen/kWh	54.60
+For the next kWh (901 kWh onwards) per month	sen/kWh	57.10
+The minimum monthly charge is RM3.00
+
+For COMMERCIAL TARIFFS
+
+TARIFF CATEGORY	CURRENT RATES
+TARIFF B - LOW VOLTAGE COMMERCIAL TARIFF
+For the first 200 kWh (1 -200 kWh) per month	43.5 sen/kWh
+For the next kWh (201 kWh onwards) per month	50.9 sen/kWh
+The minimum monthly charge is RM7.20
+TARIFF C1 - MEDIUM VOLTAGE GENERAL COMMERCIAL TARIFF
+For each kilowatt of maximum demand per month	30.3 RM/kW
+For all kWh	36.5 sen/kWh
+The minimum monthly charge is RM600.00
+TARIFF C2 - MEDIUM VOLTAGE PEAK/OFF-PEAK COMMERCIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	45.1 RM/kW
+For all kWh during the peak period	36.5 sen/kWh
+For all kWh during the off-peak period	22.4 sen/kWh
+The minimum monthly charge is RM600.00
+
+For INDUSTRIAL TARIFFS
+TARIFF CATEGORY	CURRENT RATE
+TARIFF D - LOW VOLTAGE INDUSTRIAL TARIFF
+For the first 200 kWh (1 -200 kWh) per month	38.00 sen/kWh
+For the next kWh (201 kWh onwards) per month	44.10 sen/kWh
+The minimum monthly charge is RM7.20
+TARIFF E1 - MEDIUM VOLTAGE GENERAL INDUSTRIAL TARIFF
+For each kilowatt of maximum demand per month	29.60 RM/kW
+For all kWh	33.70 sen/kWh
+The minimum monthly charge is RM600.00
+TARIFF E2 - MEDIUM VOLTAGE PEAK/OFF-PEAK INDUSTRIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	37.00 RM/kW
+For all kWh during the peak period	35.50 sen/kWh
+For all kWh during the off-peak period	21.90 sen/kWh
+The minimum monthly charge is RM600.00
+TARIFF E3 - HIGH VOLTAGE PEAK/OFF-PEAK INDUSTRIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	35.50 RM/kW
+For all kWh during the peak period	33.70 sen/kWh
+For all kWh during the off-peak period	20.20 sen/kWh
+The minimum monthly charge is RM600.00
+
+for MINING
+
+TARIFF CATEGORY	CURRENT RATES
+TARIFF F - LOW VOLTAGE MINING TARIFF
+For all kWh	38.10 sen/kWh
+The minimum monthly charge is RM120.00
+TARIFF F1 - MEDIUM VOLTAGE GENERAL MINING TARIFF
+For each kilowatt of maximum demand per month	21.10 RM/kW
+For all kWh	31.30 sen/kWh
+The minimum monthly charge is RM120.00
+TARIFF F2 - MEDIUM VOLTAGE PEAK/OFF-PEAK MINING TARIFF
+For each kilowatt of maximum demand per month during the peak period	29.80 RM/kW
+For all kWh during the peak period	31.30 sen/kWh
+For all kWh during the off-peak period	17.20 sen/kWh
+The minimum monthly charge is RM120.00
+
+for SPECIFIC AGRICULTURE TARIFFS
+
+TARIFF CATEGORY	CURRENT RATES
+TARIFF H – LOW VOLTAGE SPECIFIC AGRICULTURE TARIFF
+For the first 200 kWh (1 -200 kWh) per month	39.00 sen/kWh
+For the next kWh (201 kWh onwards) per month	47.20 sen/kWh
+The minimum monthly charge is RM7.20
+TARIFF H1 - MEDIUM VOLTAGE GENERAL SPECIFIC AGRICULTURE TARIFF
+For each kilowatt of maximum demand per month	30.30 RM/kW
+For all kWh	35.10 sen/kWh
+The minimum monthly charge is RM600.00
+TARIFF H2 - MEDIUM VOLTAGE PEAK/OFF-PEAK SPECIFIC AGRICULTURE TARIFF
+For each kilowatt of maximum demand per month during the peak period	40.80 RM/kW
+For all kWh during the peak period	36.50 sen/kWh
+For all kWh during the off-peak period	22.40 sen/kWh
+The minimum monthly charge is RM600.00
+
+for TOP-UP AND STANDBY SERVICES (ONLY FOR CO-GENERATORS)
+TARIFF CATEGORY	UNIT	CURRENT RATE 
+TOP-UP	STANDBY
+TARIFF C1 - MEDIUM VOLTAGE GENERAL COMMERCIAL TARIFF
+Maximum demand charge per month	RM/kW	30.30	14.00
+For all kWh	sen/kWh	36.50	 
+TARIFF C2 - MEDIUM VOLTAGE PEAK/OFF-PEAK COMMERCIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	RM/kW	45.10	14.00
+For all kWh during the peak period	sen/kWh	36.50	 
+For all kWh during the off-peak period	sen/kWh	22.40	 
+TARIFF E1 - MEDIUM VOLTAGE GENERAL INDUSTRIAL TARIFF
+Maximum demand charge per month	RM/kW	29.60	14.00
+For all kWh	sen/kWh	33.70	 
+TARIFF E2 – MEDIUM VOLTAGE PEAK/OFF-PEAK INDUSTRIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	RM/kW	37.00	14.00
+For all kWh during the peak period	sen/kWh	35.50	 
+For all kWh during the off-peak period	sen/kWh	21.90	 
+TARIFF E3 – HIGH VOLTAGE PEAK/OFF-PEAK INDUSTRIAL TARIFF
+For each kilowatt of maximum demand per month during the peak period	RM/kW	35.50	8.00*
+For all kWh during the peak period	sen/kWh	33.70	 
+For all kWh during the off-peak period	sen/kWh	20.20	 
+TARIFF F1 – MEDIUM VOLTAGE GENERAL MINING TARIFF
+Maximum demand charge per month	RM/kW	21.10	14.00
+For all kWh	sen/kWh	31.30	 
+TARIFF F2 – MEDIUM VOLTAGE PEAK/OFF-PEAK MINING TARIFF
+For each kilowatt of maximum demand per month during the peak period	RM/kW	29.80	14.00
+For all kWh during the peak period	sen/kWh	31.30	 
+For all kWh during the off-peak period	sen/kWh	17.20	 
+TARIFF H1 – MEDIUM VOLTAGE GENERAL SPECIFIC AGRICULTURE TARIFF
+Maximum demand charge per month	RM/kW	30.30	14.00
+For all kWh	sen/kWh	35.10	 
+TARIFF H2 – MEDIUM VOLTAGE PEAK/OFF-PEAK SPECIFIC AGRICULTURE TARIFF
+For each kilowatt of maximum demand per month during the peak period	RM/kW	40.80	14.00
+For all kWh during the peak period	sen/kWh	36.50	 
+For all kWh during the off-peak period	sen/kWh	22.40	 
+
+
+write a python code for calculate TARIFFS based based on condition (RESIDENTIAL,COMMERCIAL,INDUSTRIAL,MINING,SPECIFIC AGRICULTURE,TOP-UP AND STANDBY SERVICES)
